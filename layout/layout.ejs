@@ -2,7 +2,7 @@
 <html>
     <%- partial('_partial/head') %>
     <body>
-        <div id="blog">
+        <div id="blog" itemtype="http://schema.org/Blog">
             <%- partial('_partial/header', null, {cache: !config.relative_link}) %>
             <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
             <div id="main">

@@ -1,7 +1,7 @@
 <header id="header">
     <i id="btn-open-sidebar" class="fa fa-lg fa-bars "></i>
     <h1 class="header-title">
-        <a class="header-title-link" href="<%= config.url %>"><%= config.title %></a>
+        <a itemprop="name" class="header-title-link" href="<%= config.url %>"><%= config.title %></a>
     </h1>
     <% if ((theme.gravatar_image) && (theme.author.email)) { %>
         <a class="header-picture-link" href="<%- url_for('/#about') %>">
