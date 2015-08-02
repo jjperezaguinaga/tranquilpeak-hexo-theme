@@ -40,34 +40,34 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: GitHub
-        #     url: https://github.com/
-        #     icon: github
-        # stack_overflow:
-        #     title: Stack Overflow
-        #     url: http://stackoverflow.com/users/
-        #     icon: stack-overflow
-        # twitter:
-        #     title: Twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
+        github:
+            title: GitHub
+            url: https://github.com/jjperezaguinaga
+            icon: github
+        stack_overflow:
+            title: Stack Overflow
+            url: http://stackoverflow.com/users/1067521/jjperezaguinaga
+            icon: stack-overflow
+        twitter:
+            title: Twitter
+            url: https://twitter.com/jjperezaguinaga
+            icon: twitter
         # facebook:
         #     title: Facebook
         #     url: https://www.facebook.com/
         #     icon: facebook
-        # google_plus:
-        #     title: Google +
-        #     url: https://plus.google.com/
-        #     icon: google-plus
-        # linked_in:
-        #     title: Linked In
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
-        # mail:
-        #     title: Mail
-        #     url: mailto://
-        #     icon: envelope-o
+        google_plus:
+            title: Google +
+            url: https://plus.google.com/u/0/+JoséJesúsPérezAguinaga
+            icon: google-plus
+        linked_in:
+            title: Linked In
+            url: https://ch.linkedin.com/in/jjperezaguinaga
+            icon: linkedin
+        mail:
+            title: Mail
+            url: mailto:me@jjperezaguinaga.com
+            icon: envelope-o
     rss:
         rss:
             title: RSS
@@ -92,4 +92,4 @@ favicon: favicon.ico                   # Your favicon located in folder `source/
 image_gallery: 1                       # Display an image gallery at the end of a post which have photos variables
 
 # Miscellaneous
-google_analytics:    # Google analystics web property ID : UA-XXXXX-X
+google_analytics: UA-20771865-2  # Google analystics web property ID : UA-XXXXX-X
