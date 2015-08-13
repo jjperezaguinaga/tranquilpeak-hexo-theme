@@ -1,5 +1,6 @@
-node_modules
-assets
 .DS_Store
 *.swp
+.sass-cache
+assets
+node_modules
 _bower_components
